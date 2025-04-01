@@ -1,10 +1,10 @@
 const cardValues = [
-    './images/22_01_25 ⚽️🤍.jpg', './images/22_01_25 ⚽️🤍.jpg',
-    './images/cr7🤩😍🔥.jpg', './images/cr7🤩😍🔥.jpg',
-    './images/51347b9a-e701-4792-a293-c4dfe7e36ebd.jpg', './images/51347b9a-e701-4792-a293-c4dfe7e36ebd.jpg',
-    './images/Ja Morant Wallpaper.jpg', './images/Ja Morant Wallpaper.jpg',
-    './images/c5297c2d-ee45-40eb-9780-8f9a704ea7ad.jpg', './images/c5297c2d-ee45-40eb-9780-8f9a704ea7ad.jpg',
-    './images/81ffc2bf-2c19-4dc1-ac46-514c98895514.jpg', './images/81ffc2bf-2c19-4dc1-ac46-514c98895514.jpg',
+    './assets/images/22_01_25 ⚽️🤍.jpg', './assets/images/22_01_25 ⚽️🤍.jpg',
+    './assets/images/cr7🤩😍🔥.jpg', './assets/images/cr7🤩😍🔥.jpg',
+    './assets/images/51347b9a-e701-4792-a293-c4dfe7e36ebd.jpg', './assets/images/51347b9a-e701-4792-a293-c4dfe7e36ebd.jpg',
+    './assets/images/Ja Morant Wallpaper.jpg', './assets/images/Ja Morant Wallpaper.jpg',
+    './assets/images/c5297c2d-ee45-40eb-9780-8f9a704ea7ad.jpg', './assets/images/c5297c2d-ee45-40eb-9780-8f9a704ea7ad.jpg',
+    './assets/images/81ffc2bf-2c19-4dc1-ac46-514c98895514.jpg', './assets/images/81ffc2bf-2c19-4dc1-ac46-514c98895514.jpg',
 ];
 const gameContainer = document.querySelector('.game-container');
 const players = document.querySelectorAll('.player');
